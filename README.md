@@ -1,4 +1,4 @@
-**RR-LPD5 - Ejercicio de lógica de programación 5**
+# RR-LPD5 - Ejercicio de lógica de programación 5
 
 Crear un programa en `Java` que realice lo siguiente:
 
@@ -12,6 +12,7 @@ Al final debe mostrar por consola cuántas respuestas correctas e incorrectas ti
 Al final de tu práctica, tienes que subir el ejercicio a tu repositorio de GitHub.
 
 Colócalo en un repositorio llamado `logica-programacion-5`.
+
 
 
 
